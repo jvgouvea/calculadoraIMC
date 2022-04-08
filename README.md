@@ -4,7 +4,7 @@ Mini projeto para treinar JavaScript e interação com o DOM. Após inserir a su
 
 ## 📌Acesso
 
-- [Link para acesso ao site]()
+- [Link para acesso ao site](https://calculadora-imc-chi-teal.vercel.app/)
 
 ## 🛠️ Construído com
 
